@@ -13,7 +13,7 @@ dependencies:
     git:
       url: https://github.com/jan-milovanovic/audio_service.git
       path: audio_service
-      ref: major
+      ref: minor
 
 
   just_audio_platform_interface: ^4.2.1
